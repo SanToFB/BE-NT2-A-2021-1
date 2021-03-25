@@ -26,3 +26,4 @@ Para inciar este proytecto, es necesario que todos los alumnos tengan una cuenta
 - Jeronimo Mendivil, JeronimoMendivil 
 - Ornella Stirparo, orneStirparo
 - Andres Fowler, FowlerAndy
+- Santiago Fernandez Bina, SanToFB
